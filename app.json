@@ -79,7 +79,7 @@
       
 "onlygroup" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
-    "required" : true,
+    "required" : false,
   "value" : "false"
     },
     
@@ -98,55 +98,55 @@
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "+254799019570"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "+254799019570"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "+25479901570"
     },
     
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
+  "value" : "🅣🅗🅔🅖🅡🅔🅔🅝🅢🅔🅐🅛"
     },
       
 "OWNER_NAME" :{
     "description" : "TYPE OWNER NAME",
     "required" : true,
-  "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
+  "value" : "Sergearon"
     },
       
 "GROUP_LINK" :{
     "description" : "TYPE GROUP LINK",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/JWnZvdfFtvfD85LzPCc8r1"
 },
       
   "GROUP_LINK2" :{
     "description" : "TYPE GROUP LINK 2",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/JWnZvdfFtvfD85LzPCc8r1"
 },
     
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "STICKER BY 🅣🅗🅔🅖🅡🅔🅔🅝🅢🅔🅐🅛"
 },
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY VIHANGA MD*"
+  "value" : "*BY 🅣🅗🅔🅖🅡🅔🅔🅝🅢🅔🅐🅛*"
 },
     
 "IMG_URL" :{
@@ -157,7 +157,7 @@
   
   "YT_URL" :{
     "description" : "IF U HAVE YT CHANNEL TYPE URL",
-    "required" : true,
+    "required" : false,
     "value" :"https://youtu.be/Z9rIR0Vopb8"
     }
     },
